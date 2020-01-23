@@ -1,0 +1,6 @@
+fill jug with water
+light torch
+water plant
+eat plant
+wear armor
+break case
